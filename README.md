@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
