@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
