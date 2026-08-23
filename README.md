@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1103-distribute-candies-to-people) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
