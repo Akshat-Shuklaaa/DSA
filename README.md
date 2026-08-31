@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0367-valid-perfect-square) |
 | [1103-distribute-candies-to-people](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0203-remove-linked-list-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
