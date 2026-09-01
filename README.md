@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0414-third-maximum-number](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0414-third-maximum-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0414-third-maximum-number) |
 | [3467-transform-array-by-parity](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
