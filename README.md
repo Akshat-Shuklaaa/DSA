@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1528-shuffle-string) |
 | [3467-transform-array-by-parity](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3467-transform-array-by-parity) |
+| [3668-restore-finishing-order](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
