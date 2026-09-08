@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3870-count-commas-in-range](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
