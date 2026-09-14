@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0836-rectangle-overlap) |
 | [1103-distribute-candies-to-people](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
