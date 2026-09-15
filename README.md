@@ -59,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Shuklaaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Shuklaaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1528-shuffle-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Shuklaaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0061-rotate-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Shuklaaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String Matching
 |  |
 | ------- |
