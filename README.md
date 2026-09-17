@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1528-shuffle-string) |
 | [3467-transform-array-by-parity](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0367-valid-perfect-square) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0070-climbing-stairs) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Shuklaaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0041-first-missing-positive) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
