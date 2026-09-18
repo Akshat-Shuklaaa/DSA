@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Array
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0414-third-maximum-number](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
