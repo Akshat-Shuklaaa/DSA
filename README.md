@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1528-shuffle-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Shuklaaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1103-distribute-candies-to-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
