@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1528-shuffle-string) |
 | [3467-transform-array-by-parity](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3668-restore-finishing-order) |
 | [3903-smallest-stable-index-i](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
