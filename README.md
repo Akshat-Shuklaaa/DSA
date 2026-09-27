@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0414-third-maximum-number](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0414-third-maximum-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Akshat-Shuklaaa/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1103-distribute-candies-to-people](https://github.com/Akshat-Shuklaaa/DSA/tree/master/1103-distribute-candies-to-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshat-Shuklaaa/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
